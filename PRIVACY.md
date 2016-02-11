@@ -2,7 +2,7 @@
 
 1.1. This Privacy Policy has been designed to inform you and notify you of the
 kinds, the scope and the purpose, as well as your rights concerning your data
-collected and processed by Qafoo GmbH, Büngelerstraße 64, 46539 Dinslaken,
+collected and processed by Tideways GmbH, Königswintererstraße 116, 53227 Bonn,
 Germany (hereinafter referred to as „we“ or „us“).
 
 1.2. By visiting and using our websites and services you are accepting and
