@@ -42,11 +42,11 @@ contractual purpose.
 
 2.3. The contract upon which these ToS are based is a service contract.
 
-2.4. Individual target agreements such as statistical values or metrics, growth
-or user numbers do not change the character of the contract as a whole.  Only
-where all contractual services serve to achieve a concrete target does this
-constitute a works contract. Such a target agreement must be expressly
-stipulated in writing.
+2.4. Individual target agreements such as statistical values or metrics, growth or user
+numbers do not change the character of the contract as a whole.  Only where all
+contractual services serve to achieve a concrete target does this constitute a
+works contract. Such a target agreement must be expressly stipulated in
+writing.
 
 2.5. In addition, we owe you services in accordance with the type and quality
 that are average for the sector.
@@ -168,17 +168,17 @@ co-operation or supplies from you or if we can provide our services only by
 incurring additional expenditure, we are entitled to claim such necessary
 additional expenditure from you.
 
-6.7. Should it not be possible to have an invoice paid by credit card or direct
-debit, you shall bear all consequential costs. These include especially bank
-charges in connection with the return of direct debits and comparable fees to
-the extent that you are responsible for the event that triggers the costs. We
-can send you payment reminders electronically.
+6.7. Should it not be possible to have an invoice paid by credit card or direct debit, you
+shall bear all consequential costs. These include especially bank charges in
+connection with the return of direct debits and comparable fees to the extent
+that you are responsible for the event that triggers the costs. We can send you
+payment reminders electronically.
 
 6.8. Should you fall into arrears with your payments, we have the right to
-refuse to fulfill payments due to you and to block access to Tideways until
-such default has been rectified. In such cases we will normally notify you of
-such blocking 10 working days in advance to rectify such default. Our other
-legal and contractual rights with regard to payment delay shall remain
+refuse to fulfill payments due to you and to block access to Tideways
+until such default has been rectified. In such cases we will normally notify
+you of such blocking 10 working days in advance to rectify such default. Our
+other legal and contractual rights with regard to payment delay shall remain
 unaffected.
 
 6.9. Should you fall into arrears with your payment, you must expect to be
@@ -187,9 +187,9 @@ base interest rate. Default interest will be charged, even without a written
 warning, if the payment is not made at the agreed date. We reserve the right to
 raise a claim for a higher value of compensation for such delay.
 
-6.10. All contractual remunerations for individual offers to entrepreneurs shall
-be subject to the addition of the legal rate of VAT or otherwise shall include
-the VAT applicable at the time of invoicing.
+6.10. All contractual remunerations for individual offers to entrepreneurs 
+shall be subject to the addition of the legal rate of VAT or otherwise shall
+include the VAT applicable at the time of invoicing.
 
 6.11. You may offset only uncontested or legally binding debts against our
 claims, insofar as these are not claims for completion or the rectification of
