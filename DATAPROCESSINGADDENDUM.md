@@ -30,13 +30,35 @@ The scope and duration and the detailed stipulations on the type and purpose of
 Contract Processing shall be governed by the Agreement. Specifically, Contract
 Processing shall include, but not be limited to, the following Data:
 
-| **Catgory of data subjects affected** | **Type of data** | **Type and purpose (subject matter) of Contract Processing** |
-| Alle Tideways Nutzer in Ihrer Firma | Personenstammdaten (Name, E-Mail) | Versand von täglichen/wöchentlichen Reports, Warnmeldungen, Produkt-Updates, Tutorial, Passwort-Reset, Ankündigungen und anderen Produkt-bezogenen Nachrichten |
-| | Kommunikationsdaten | E-Mails an den Tideways Support oder direkt an Tideways Mitarbeiter |
-| | Nutzungsdaten | Anonyme Statistiken zur Nutzung von Features. Pseudonyme Nutzungsprofile. Verknüpfung von Tideways Nutzeraccounts mit aufgetretenen Fehlern. |
-| | Netzwerk-Daten (IP-Adressen) | Netzwerk-Sicherheit, Zugriffsprotokolle | 
-| Rechnungsaddressat | Vertragsabrechnungsdaten, Zahlungsdaten | Versand von Rechnungen und Verarbeitung von Zahlungen |
-| Besucher von Ihren mit Tideways verknüpften Webseiten | Keine Daten bei Werkeinstellungen, aber abhängig von Ihrer expliziten Nutzung von unseren Programmschnittstellen ist eine Übertragung beliebiger (auch personnenbezogener) Daten möglich, z.B. Personnenstammdaten, E-Mail Adressen, IP-Adressen. Unsere AGBs erlauben nur pseudonyme Identifkationsmerkmale, aber eine Kontrolle der von Ihnen übertragenen Daten ist nur stichprobenartig möglich. | Korrelation von Geschwindigkeits- und Fehlerprofilen mit pseudonymen Besucher-Identifikationen. |
+**Catgory of data subjects affected** All Tideways users in your company
+**Type of data** Standing data (Name, E-Mail)
+**Type and purpose (subject matter) of Contract Processing**
+Sending of daily/weekly reports, notifications, product-updates, tutorials, password-reset, announcement and other product related messages.
+
+**Catgory of data subjects affected** All Tideways users in your company
+**Type of data** Communication Data
+**Type and purpose (subject matter) of Contract Processing**
+E-Mails to Tideways support or directly to Tideways employees
+
+**Catgory of data subjects affected** All Tideways users in your company
+**Type of data** Usage data
+**Type and purpose (subject matter) of Contract Processing**
+Anonymized statistics of feature usage, pseudonymized user profiles, connection of Tideways user accounts that caused errors in the software
+
+**Catgory of data subjects affected** All Tideways users in your company
+**Type of data** Network Data (IP Addresses)
+**Type and purpose (subject matter) of Contract Processing**
+Network Security and Access protocols
+
+**Catgory of data subjects affected** Billing Contact
+**Type of data** Contract Invoice Data, Payment Data
+**Type and purpose (subject matter) of Contract Processing**
+Sending of invoices and processing of payments
+
+**Category of data subjects affected** Visitors of your Tideways connected websites
+**Type of data** No data with default settings and usage. Based on your usage of Tideways APIs a transmission of additional data (including personal data) if you explicitly program this behavior into your software. This could be personal standing data, e-mail addreses or IP addresses. Be advised that our Terms of Use do not allow you to send personal identifiable data excepted when pseudonymized. A control of data transmitted by you is controlled by random sample and may be automatically filtered by our software on your servers when detected.
+**Type and purpose (subject matter) of Contract Processing**
+Correlation of pseudonymized user-identifiers with performance and error data.
 
 Except where this annex stipulates obligations beyond the term of the
 Agreement, the term ofthis annex shall be the term of the Agreement.
@@ -249,7 +271,7 @@ Company and Supplier shall be liable to data subject in accordance with Article
 
 # Annex B - Technical and Organisational Measures
 
-# Confidentiality (Article 32 paragraph 1 (b) GDPR)
+## Confidentiality (Article 32 paragraph 1 (b) GDPR)
 
 -   physical access control
     -   Tideways implements among other things the following measures to
