@@ -505,7 +505,7 @@ confidentiality shall remain unaffected by a termination of this contract.
 
 19.1. We process your personal data only for a specific purpose and pursuant to
 the statutory provisions. For further information, please refer to our Privacy
-Policy: https://tideways.com/privacy
+Policy: [https://tideways.com/privacy](https://tideways.com/privacy)
 
 19.2. You are obliged to care for the data protection rights of your customers
 and are not supposed to transmit any personally identifiable data of your
