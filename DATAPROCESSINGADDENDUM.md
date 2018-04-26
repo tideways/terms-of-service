@@ -30,15 +30,14 @@ The scope and duration and the detailed stipulations on the type and purpose of
 Contract Processing shall be governed by the Agreement. Specifically, Contract
 Processing shall include, but not be limited to, the following Data:
 
-**Catgory of data subjects affected** All Tideways users in your company
-**Type of data** Standing data (Name, E-Mail)
-**Type and purpose (subject matter) of Contract Processing**
-Sending of daily/weekly reports, notifications, product-updates, tutorials, password-reset, announcement and other product related messages.
-
-**Catgory of data subjects affected** All Tideways users in your company
-**Type of data** Communication Data
-**Type and purpose (subject matter) of Contract Processing**
-E-Mails to Tideways support or directly to Tideways employees
+- 
+    - **Catgory of data subjects affected** All Tideways users in your company
+    - **Type of data** Standing data (Name, E-Mail)
+    - **Type and purpose (subject matter) of Contract Processing** Sending of daily/weekly reports, notifications, product-updates, tutorials, password-reset, announcement and other product related messages.
+- 
+    - **Catgory of data subjects affected** All Tideways users in your company
+    - **Type of data** Communication Data
+    - **Type and purpose (subject matter) of Contract Processing** E-Mails to Tideways support or directly to Tideways employees
 
 **Catgory of data subjects affected** All Tideways users in your company
 **Type of data** Usage data
