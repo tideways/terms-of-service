@@ -31,12 +31,12 @@ Contract Processing shall be governed by the Agreement. Specifically, Contract
 Processing shall include, but not be limited to, the following Data:
 
 | **Catgory of data subjects affected** | **Type of data** | **Type and purpose (subject matter) of Contract Processing** |
-| Alle Tideways Nutzer in Ihrer Firma |Personenstammdaten (Name, E-Mail) | Versand von täglichen/wöchentlichen Reports, Warnmeldungen, Produkt-Updates, Tutorial, Passwort-Reset, Ankündigungen und anderen Produkt-bezogenen Nachrichten |
+| Alle Tideways Nutzer in Ihrer Firma | Personenstammdaten (Name, E-Mail) | Versand von täglichen/wöchentlichen Reports, Warnmeldungen, Produkt-Updates, Tutorial, Passwort-Reset, Ankündigungen und anderen Produkt-bezogenen Nachrichten |
 | | Kommunikationsdaten | E-Mails an den Tideways Support oder direkt an Tideways Mitarbeiter |
 | | Nutzungsdaten | Anonyme Statistiken zur Nutzung von Features. Pseudonyme Nutzungsprofile. Verknüpfung von Tideways Nutzeraccounts mit aufgetretenen Fehlern. |
 | | Netzwerk-Daten (IP-Adressen) | Netzwerk-Sicherheit, Zugriffsprotokolle | 
 | Rechnungsaddressat | Vertragsabrechnungsdaten, Zahlungsdaten | Versand von Rechnungen und Verarbeitung von Zahlungen |
-| Besucher von Ihren mit Tideways verknüpften Webseiten | Keine Daten bei Werkeinstellungen, aber abhängig von Ihrer expliziten Nutzung von unseren Programmschnittstellen ist eine Übertragung beliebiger (auch personnenbezogener) Daten möglich, z.B. Personnenstammdaten, E-Mail Adressen, IP-Adressen. Unsere AGBs erlauben nur pseudonyme Identifkationsmerkmale, aber eine Kontrolle der von Ihnen übertragenen Daten ist nur stichprobenartig möglich. | Korrelation von Geschwindigkeits- und Fehlerprofilen mit pseudonymen Besucher-Identifikationen.
+| Besucher von Ihren mit Tideways verknüpften Webseiten | Keine Daten bei Werkeinstellungen, aber abhängig von Ihrer expliziten Nutzung von unseren Programmschnittstellen ist eine Übertragung beliebiger (auch personnenbezogener) Daten möglich, z.B. Personnenstammdaten, E-Mail Adressen, IP-Adressen. Unsere AGBs erlauben nur pseudonyme Identifkationsmerkmale, aber eine Kontrolle der von Ihnen übertragenen Daten ist nur stichprobenartig möglich. | Korrelation von Geschwindigkeits- und Fehlerprofilen mit pseudonymen Besucher-Identifikationen. |
 
 Except where this annex stipulates obligations beyond the term of the
 Agreement, the term ofthis annex shall be the term of the Agreement.
