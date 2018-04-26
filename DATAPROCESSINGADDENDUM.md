@@ -33,31 +33,43 @@ Processing shall include, but not be limited to, the following Data:
 - 
     - **Catgory of data subjects affected** All Tideways users in your company
     - **Type of data** Standing data (Name, E-Mail)
-    - **Type and purpose (subject matter) of Contract Processing** Sending of daily/weekly reports, notifications, product-updates, tutorials, password-reset, announcement and other product related messages.
+    - **Type and purpose (subject matter) of Contract Processing** Sending of
+      daily/weekly reports, notifications, product-updates, tutorials,
+      password-reset, announcement and other product related messages.
 - 
     - **Catgory of data subjects affected** All Tideways users in your company
     - **Type of data** Communication Data
-    - **Type and purpose (subject matter) of Contract Processing** E-Mails to Tideways support or directly to Tideways employees
-
-**Catgory of data subjects affected** All Tideways users in your company
-**Type of data** Usage data
-**Type and purpose (subject matter) of Contract Processing**
-Anonymized statistics of feature usage, pseudonymized user profiles, connection of Tideways user accounts that caused errors in the software
-
-**Catgory of data subjects affected** All Tideways users in your company
-**Type of data** Network Data (IP Addresses)
-**Type and purpose (subject matter) of Contract Processing**
-Network Security and Access protocols
-
-**Catgory of data subjects affected** Billing Contact
-**Type of data** Contract Invoice Data, Payment Data
-**Type and purpose (subject matter) of Contract Processing**
-Sending of invoices and processing of payments
-
-**Category of data subjects affected** Visitors of your Tideways connected websites
-**Type of data** No data with default settings and usage. Based on your usage of Tideways APIs a transmission of additional data (including personal data) if you explicitly program this behavior into your software. This could be personal standing data, e-mail addreses or IP addresses. Be advised that our Terms of Use do not allow you to send personal identifiable data excepted when pseudonymized. A control of data transmitted by you is controlled by random sample and may be automatically filtered by our software on your servers when detected.
-**Type and purpose (subject matter) of Contract Processing**
-Correlation of pseudonymized user-identifiers with performance and error data.
+    - **Type and purpose (subject matter) of Contract Processing** E-Mails to
+      Tideways support or directly to Tideways employees
+-
+    - **Catgory of data subjects affected** All Tideways users in your company
+    - **Type of data** Usage data
+    - **Type and purpose (subject matter) of Contract Processing** Anonymized
+      statistics of feature usage, pseudonymized user profiles, connection of
+      Tideways user accounts that caused errors in the software
+-
+    - **Catgory of data subjects affected** All Tideways users in your company
+    - **Type of data** Network Data (IP Addresses)
+    - **Type and purpose (subject matter) of Contract Processing** Network
+      Security and Access protocols
+- 
+    - **Catgory of data subjects affected** Billing Contact
+    - **Type of data** Contract Invoice Data, Payment Data
+    - **Type and purpose (subject matter) of Contract Processing** Sending of
+      invoices and processing of payments
+- 
+    - **Category of data subjects affected** Visitors of your Tideways
+      connected websites
+    - **Type of data** No data with default settings and usage. Based on your
+      usage of Tideways APIs a transmission of additional data (including
+      personal data) if you explicitly program this behavior into your
+      software. This could be personal standing data, e-mail addreses or IP
+      addresses. Be advised that our Terms of Use do not allow you to send
+      personal identifiable data excepted when pseudonymized. A control of data
+      transmitted by you is controlled by random sample and may be
+      automatically filtered by our software on your servers when detected.
+    - **Type and purpose (subject matter) of Contract Processing** Correlation
+      of pseudonymized user-identifiers with performance and error data.
 
 Except where this annex stipulates obligations beyond the term of the
 Agreement, the term ofthis annex shall be the term of the Agreement.
