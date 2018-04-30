@@ -1,4 +1,4 @@
-Date: March, 31th 2016
+Date: April, 27th 2018
 
 # 1. Conditions and Definitions
 
@@ -16,9 +16,7 @@ performance, a person or a location.
 represent the exclusive basis for all legal relationships established between
 us and you, related to the use of Tideways.
 
-1.4. By accessing or using Tideways, you are agreeing to these ToS and
-concluding a legally binding contract with us. Do not access or use Tideways if
-you are unwilling or unable to be bound by the ToS.
+1.4. [Removed]
 
 1.5. Insofar as we have not explicitly agreed to their application in writing,
 your possibly deviating business conditions shall not apply. Even though they
@@ -33,10 +31,9 @@ a purpose which is outside their trade, business or profession.
 # 2. Scope of service
 
 2.1. Our services include analysis services. Our concrete service obligations
-to you are derived from the service descriptions on our website,
-https://app.tideways.io/ as well as other agreements in contractual
-offers and agreements reached in concepts insofar as these have been agreed or
-confirmed in writing (all together hereafter described as “agreement”).
+to you are derived from the service descriptions on our website
+https://tideways.com, https://tideways.io, https://tideways.de and all their
+subdomains.
 
 2.2. If the agreement is not available, if it is inadequate or if in certain
 cases its scope is doubtful, the services to be provided shall include the
@@ -45,8 +42,8 @@ contractual purpose.
 
 2.3. The contract upon which these ToS are based is a service contract.
 
-2.4. Individual target agreements such as statistical values, growth or user
-numbers do not change the character of the contract as a whole. Only where all
+2.4. Individual target agreements such as statistical values or metrics, growth or user
+numbers do not change the character of the contract as a whole.  Only where all
 contractual services serve to achieve a concrete target does this constitute a
 works contract. Such a target agreement must be expressly stipulated in
 writing.
@@ -69,19 +66,64 @@ by means of an individual agreement.
 reasons. If a registration is incomplete, we are entitled to delete the user
 account within one week.
 
-# 4. Account, password and security
+# 4. Account, password and security, Requirements for Usage, Privacy, Sanctions and Blocking of personal Accounts
 
 4.1. Registering and using Tideways may involve you setting up an account
 and giving a password.
 
-4.2. You are fully responsible for maintaining the confidentiality of your
-account and the password, and all activities that occur under your account or
-password. You agree to immediately notify us of any unauthorized use of your
+4.2. Consumers may not register based on the preceding section 4.1.. A
+corporation entity (legal person or private company) may only be registered by
+its lawful representatives and under the submission of their names. Each user
+is obliged to give true and complete information in the context of registration
+resting upon section 4.1.. Each user shall inform Tideways about any change in
+the contract details or the other user information without delay and unasked.
+If asked those information have to be confirmed.
+
+4.3. You may register and create an account only once. Your account may not be
+transferred. You are fully responsible for maintaining the confidentiality of
+your account and the password, and all activities that occur under your account
+or password. You agree to immediately notify us of any unauthorized use of your
 account or password and any breach of security or misuse or suspected breach of
-security or misuse of Tideways, and ensure that you exit from your
-account at the end of each session if you use a shared computer. Tideways cannot
-and will not be liable for any loss or damage arising from your failure to
-comply with this clause.
+security or misuse of Tideways, and ensure that you exit from your account at
+the end of each session if you use a shared computer. Tideways cannot and will
+not be liable for any loss or damage arising from your failure to comply with
+this clause.
+
+4.4. In case of reasonable grounds that your credentials have been obtained by
+unauthorized third parties, Tideways is entitled but not obligated at its own
+discretion to change your personal credentials or to block your account without
+any prior notice. We will notify you without undue delay and will, if
+instructed to, assign you with new credentials within reasonable time. You may
+not claim the restoring of your exact credentials.
+
+4.5. In the event, that you do not meet the ToS or the statutory provisions,
+Tideways may:
+
+1. (a) change or delete your uploaded content;
+2. (b) terminate all contracts without notice;
+3. (c) block the account temporarily or permanently;
+4. (d) prohibit you from reregistering under your or a different name, after
+   your account has been deleted.
+
+4.6. Tideways is permitted to impose these sanctions over you without prior
+notice or consultation with you and even against your explicit wish. 
+
+4.7. Tideways can block you permanently from the usage of our website and our
+services. In particular, when:
+
+1. (a) wrong personal information has been provided or a necessary update of
+   your information profile has not been carried out;
+2. (b) due payments have not been made; this also includes the event, when a
+   payment has been made intermediately and emergences once again (for example
+   through a return debit note);
+3. (c) your account has been transferred, or;
+4. (d) you harm Tideways substantially. Especially, when you abuse our
+   services. A permanent block is also possible, when a different important
+   reason exists.
+
+You may not claim the restoring of your blocked accounts, after the event of a
+block. After you have been blocked you may not sign in with a different account
+or register a new account.
 
 # 5. Legal regulations and obligations to co-operate
 
@@ -105,38 +147,28 @@ obligations.
 5.5. You shall ensure that the content you provide is free of third-party
 rights and that its publication does not violate applicable law in any form.
 
-5.6. Where we suggest content, measures or services, you are obliged to examine
-their legal admissibility.
-
-5.7. Insofar as we provide you with legal models, e.g. usage and data
-protection terms, these should be considered as templates. It is your
-responsibility to adapt the models to your own legal requirements.
-
 # 6. Remuneration
 
 6.1. The remuneration currently owed is based on the chosen plan at
-https://app.tideways.io/  and is quoted net. Statutory VAT applicable at
-the time of invoicing is charged in addition.
+https://tideways.com, https://tideways.io/ or https://tideways.de and is quoted
+net. Statutory VAT applicable at the time of invoicing is charged in addition.
 
 6.2. The remuneration is due to payment at the beginning of each payment
-interval.
+interval. You may settle the remuneration using one of the payment methods we
+have offered to you. You will be provided with the invoices electronically.
 
-6.3. The terms and conditions of involved payment services (e.g. paypal) apply
-additionally.
+6.3. [Removed]
 
-6.4. We reserve the right to change the scale of remuneration at any time. With
-regard to current contracts, such change shall take effect only from the
-beginning of the following contracting period.
+6.4. [Removed]
 
-6.5. You may settle the remuneration using one of the payment methods we have
-offered to you. You will be provided with the invoices electronically.
+6.5. [Removed]
 
 6.6. If we cannot provide our services due to lacking and inadequate
 co-operation or supplies from you or if we can provide our services only by
 incurring additional expenditure, we are entitled to claim such necessary
 additional expenditure from you.
 
-6.7. Should it not be possible to have an invoice paid by direct debit, you
+6.7. Should it not be possible to have an invoice paid by credit card or direct debit, you
 shall bear all consequential costs. These include especially bank charges in
 connection with the return of direct debits and comparable fees to the extent
 that you are responsible for the event that triggers the costs. We can send you
@@ -150,13 +182,12 @@ other legal and contractual rights with regard to payment delay shall remain
 unaffected.
 
 6.9. Should you fall into arrears with your payment, you must expect to be
-charged 8% interest for late payment (should you be an entrepreneur) or 5%
-respectively (should you be a consumer) above the base interest rate. Default
-interest will be charged, even without a written warning, if the payment is not
-made at the agreed date. We reserve the right to raise a claim for a higher
-value of compensation for such delay.
+charged 8% interest for late payment (should you be an entrepreneur) above the
+base interest rate. Default interest will be charged, even without a written
+warning, if the payment is not made at the agreed date. We reserve the right to
+raise a claim for a higher value of compensation for such delay.
 
-6.10. All contractual remunerations for individual offers to entrepreneurs
+6.10. All contractual remunerations for individual offers to entrepreneurs 
 shall be subject to the addition of the legal rate of VAT or otherwise shall
 include the VAT applicable at the time of invoicing.
 
@@ -192,8 +223,7 @@ certain data that exceed the volume of the lower tariff.
 7.6. Both contracting parties reserve the right to an early extraordinary
 termination of the contract for important reasons. An extraordinary termination
 is permitted in particular where you remain in default with your payment
-obligations for two months. Where necessary, a written warning concerning the
-objectionable conduct must precede the extraordinary termination.
+obligations for two months.
 
 7.7. In case of contract termination, you are responsible for saving your data
 before your contract expires.
@@ -221,11 +251,6 @@ materialization and give a sufficiently detailed reason for their
 rectification. In case of defects that are not obvious, the grace period for
 notification begins upon their recognition. Otherwise, claims for such defects
 cannot be raised.
-
-8.5. Necessary adjustments that we could not have foreseen in the normal course
-of events do not constitute defects. In particular, these include unforeseeable
-changes in the legal position at the time of performing our services or
-technical changes carried out by third parties over which we have no influence.
 
 # 9. Availability
 
@@ -260,7 +285,7 @@ specifically agreed or be determined by circumstances, e.g. the contract term.
 the remuneration has been paid to us in full.
 
 10.4. Insofar as Tideways contains Open Source elements, the transfer of
-rights will be effected only in accordance with and to the extent of the
+rights will be affected only in accordance with and to the extent of the
 relevant Open Source license. We must point out explicitly that the Open Source
 elements may only be used and processed and be the objectives of official
 injunctions within the scope of the respective license.
@@ -270,11 +295,23 @@ interest in any of our Properties or any content other than your data and your
 user's content. These ToS do not grant you any rights to use our trademarks,
 logos, domain names, or other brand features.
 
+10.6. You transfer the plain, unrestricted in terms of time, place and content,
+transferable and sub-licensable right to use all information and content you
+transmitted to Tideways through our website or our services. That includes
+especially the right to multiply, to process, especially in form of a
+publication or the grant of public access as well as the right to edit.
+
+10.7. You may ensure that you are the owner of all transferred rights and that
+you are entitled to grant the rights listed in paragraph 10.6. effectively. You
+may also ensure, that the transferred information do not violate any rights of
+any third party, especially no trademark-, competition-, copy-, property- or
+personal rights.
+
 # 11. Interfaces an Third Party Technology
 
 11.1. We offer software interfaces (also called “API”) for Tideways which you
 can use to transfer your data and execute functions provided by Tideways using
-your technology or technology of third party software suppliers.  We can only
+your technology or technology of third party software suppliers. We can only
 ensure the functionality of the interfaces in accordance with the availability
 provisions of these ToS insofar as such functionality lies within our scope of
 influence. In particular, no liability can be accepted for the interfaces'
@@ -285,8 +322,8 @@ the third party supplier’s software.
 interfaces to Tideways.
 
 11.3. Tideways may contain links to or incorporate third party
-technology. We do not endorse and are not responsible or liable for responsible
-for the operation or functionality of third party technology.
+technology. We do not endorse and are not responsible or liable for the
+operation or functionality of third party technology.
 
 # 12. Indemnity
 
@@ -308,7 +345,7 @@ any such matter without our prior written consent. We will use reasonable
 efforts to notify you of any such claim, action or proceeding upon becoming
 aware of it.
 
-# 13. Diclaimers and Limitation of Liability (except German and Austrian Users)
+# 13. Diclaimers and Limitation of Liability (except European Union Users)
 
 13.1. PLEASE READ THIS SECTION CAREFULLY SINCE IT LIMITS THE LIABILITY OF THE
 TIDEWAYS ENTITIES TO YOU. EACH OF THE SUBSECTIONS BELOW ONLY APPLIES UP TO THE
@@ -326,7 +363,7 @@ ARE GIVING UP SUBSTANTIAL LEGAL RIGHTS BY AGREEING TO THESE TERMS.
 MAY NOT MONITOR, CONTROL, OR VET USER CONTENT. AS SUCH, YOUR USE OF TIDEWAYS IS
 AT YOUR OWN DISCRETION AND RISK. THE TIDEWAYS ENTITIES MAKE NO CLAIMS OR PROMISES
 ABOUT THE QUALITY, ACCURACY, OR RELIABILITY OF TIDEWAYS, ITS SAFETY OR
-SECURITY, OR TIDEWAYSS CONTENT. ACCORDINGLY, THE TIDEWAYS ENTITIES ARE NOT LIABLE
+SECURITY, OR TIDEWAYS CONTENT. ACCORDINGLY, THE TIDEWAYS ENTITIES ARE NOT LIABLE
 TO YOU FOR ANY LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE SITE'S
 INOPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES OR FROM YOUR RELIANCE
 ON THE QUALITY, ACCURACY, OR RELIABILITY OF THE BUSINESS LISTINGS, RATINGS,
@@ -368,11 +405,11 @@ INCIDENTAL, PUNITIVE, EXEMPLARY, RELIANCE, OR CONSEQUENTIAL DAMAGES, (ii) LOSS
 OF PROFITS, (iii) BUSINESS INTERRUPTION, (iv) REPUTATIONAL HARM, OR (v) LOSS OF
 INFORMATION OR DATA.
 
-# 14. Diclaimers and Limitation of Liability (German, Austrian Users and Exceptions)
+# 14. Disclaimers and Limitation of Liability (European Union Users and Exceptions)
 
 14.1. The following exclusions and limitations of liability apply with regard
 to OUR liability for damage compensation, notwithstanding the other legal claim
-requirements. They apply to German and Austrian Users or if the Disclaimers and
+requirements. They apply to European Union Users or if the Disclaimers and
 limitation of liability in section 13 of this ToS is not applicable or invalid.
 
 14.2. WE assume unlimited liability if the cause of the damage is the result of
@@ -420,64 +457,68 @@ reasonable use, we have the right to block access to Tideways until such
 default has been rectified. In such cases we will normally notify you of such
 blocking. Our other legal and contractual rights shall remain unaffected.
 
-# 17. Change in ToS
+# 17. Changes to ToS
 
-17.1. We reserve the right to change the ToS at any time with effect from a
-future date. A change in essential provisions which influence your contractual
-claims shall be made only for valid and objective reasons, especially of a
-legal, technical and economic nature.
+17.1. Tideways reserves the right to change the ToS with an effective date in
+the future. A change in essential paragraphs that effect your contractual terms
+shall only be made because of valid and objective concerns, especially
+technical, legal and business reasons.
 
-17.2. We shall advise you of the amended ToS, at least in text form, so that
-you will have at least two weeks time to object to the change. In case of an
-objection, we can determine whether the previous ToS in our contractual
-relationship with you shall remain valid or whether you shall receive the right
-to termination. Should you not object to the amended ToS within the objection
-period, they shall be considered to have been accepted.
+17.2. Tideways will inform you about changes in the ToS in textual form, so
+that you have at least two (2) weeks time to object to the changes. In case of
+an objection Tideways will determine if the previous ToS will stay valid in the
+contractual agreement between both parties or if you are granted a right to
+termination of the contract. In case you don’t object to the changed ToS within
+the period for objection they count as accepted.
 
 # 18. Confidentiality
 
-18.1. The contracting parties undertake to treat all information they gain
-knowledge of during the fulfillment of this contract as confidential and to use
-it only for contractually agreed purposes.
+18.1. Protected or confidential information of the contracting parties for the
+purpose of this contract are all information concerning one party and have been
+transferred or disclosed to the other party and have been marked as
+confidential or have to be considered confidential after a consideration of all
+circumstances. Unattached to the prior provision all information is viewed as
+confidential that concerns business relations, information about business
+processes, know-how, basis for calculations, concepts, business plans, software
+algorithms, software concepts, product- and program specifications, strategies,
+sales- and marketing data as well as marketing concepts, personal data stated
+for our services (such as name, email address, payment details) and other trade
+secrets of the contracting parties.
 
-18.2. The rights and obligations in accordance with this section concerning
+18.2. The confidentiality obligation of paragraph 18.1. may not apply for
+protected or confidential information, when
+
+1. (a) the information was disclosed prior through one party to the other party
+   or already been public;
+2. (b) after the discloser or transfer through one party the respective
+   information is made public without the participation of the other party or
+   unattached to the failure to keep the information confidential;
+3. (c) the information have been disclosed to the parties by a third party,
+   that has no direct or indirect confidentially obligation to the respective
+   party; or
+4. (d) the information have to be disclosed to the competent authorities.
+
+18.3. The rights and obligations in accordance with this section concerning
 confidentiality shall remain unaffected by a termination of this contract.
 
-# 19. Data Protection
+# 19. Data Protection, Encryption
 
-19.1. We processes your personal data only for a specific purpose and pursuant
-to the statutory provisions.
+19.1. We process your personal data only for a specific purpose and pursuant to
+the statutory provisions. For further information, please refer to our Privacy
+Policy: [https://tideways.com/privacy](https://tideways.com/privacy)
 
-19.2. You shall ensure and warrant that the data you provide to Tideways
-or us is free of third-party rights and that by processing it, we do not
-violate any applicable law in any form. In particular your are obliged to care
-for the data protection rights of your customers and are not supposed to
-    transmit any personally identifiable data to us. By default Tideways
-    will not transfer any personal data.
+19.2. You are obliged to care for the data protection rights of your customers
+and are not supposed to transmit any personally identifiable data of your
+customers to us. By default Tideways will not transfer any personal data.
 
 19.3. You may use the encryption techniques provided by Tideways. However
 the according setup of the encryption lies within your responsibility.
-
-19.4. The personal data stated for the purpose of our services (such as name,
-email address, payment details) shall be used for the fulfillment and execution
-of the agreement. This data shall be treated as confidential and not forwarded
-to third parties that are not involved in the order, delivery and payment
-processes.
-
-19.5. The Customer has the right to receive information on the personal data
-that has been saved by us about him, free of charge. In addition, the Customer
-has the right to amend incorrect data, block and delete his personal data
-provided this does not contradict any legal storage obligation.
-
-19.6. For further information, please refer to our Privacy Policy:
-https://app.tideways.io/privacy
 
 # 20. Place of Jurisdiction, Applicable Law and Final Provisions
 
 20.1. Place of jurisdiction shall be our registered office, if you are
 businessperson, enterprise, a legal entity of public law or public special
-fund. The German law applies exclusively, unless expressly agreed otherwise or
-pursuant to consumer protection legislation.
+fund. The German law applies exclusively, unless expressly agreed otherwise.
 
 20.2. Any failure on our part to exercise or enforce any right or provision of
 the Terms does not constitute a waiver of such right or provision. The failure
