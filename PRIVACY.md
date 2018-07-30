@@ -216,9 +216,26 @@ committed to implement and uphold EU data privacy regulation.
 11.3. Additional information for your privacy can be reviewed in the [Privacy
 Policy](https://www.mailgun.com/privacy-policy) of Mailgun.
 
-# 12. Help Scout
+# 12. Email Sending with Postmark
 
-9.1. To answer and reply to support requests we use the software-tool
+12.1. We also use „Postmark“, a service of Wildbit LLC, 225 Chestnut St.,
+Philadelphia, PA, 19106 USA („Postmark“), for sending e-mails.  For the purpose
+of sending e-mails we transmit your e-mail address, your IP-address and
+contents of emails, sent through Postmark.
+
+12.2. We only transmit the information above to Postmark servers into the US.
+The US is a so called insecure third party country. However Postmark has
+voluntarily committed itself to comply to the „US-EU Privacy Shield“ treaty and
+the „Swiss-U.S. Privacy Shield“ treaty as set forth by the U.S. Department of
+Commerce regarding of personal information transferred from the European Union
+an Switzerland to the United States.
+
+12.3. Additional information for your privacy can be reviewed in the [Privacy
+Policy of Postmark](https://wildbit.com/privacy-policy).
+
+# 13. Help Scout
+
+13.1. To answer and reply to support requests we use the software-tool
 helpscout.net, a customer service platform by the company Help Scout Inc. 131
 Tremont Street, 3rd Floor, Boston, MA 02111-1338 („Help Scout“). To process
 your support requests through our contact form or directly to
@@ -235,14 +252,14 @@ US is a so called insecure third party country. However Help Scout has
 voluntarily committed itself to comply to the US-EU „Privacy Shield“ treaty and
 has committed to implement and uphold EU data privacy regulation.
 
-9.2. Additional information for your privacy can be reviewed in the [Privacy
+13.2. Additional information for your privacy can be reviewed in the [Privacy
 Policy](https://www.helpscout.net/company/legal/privacy/) and [Terms of
 Service](https://www.helpscout.net/company/legal/terms-of-service/) of Help
 Scout.
 
-# 13. Website Analysis with Matomo
+# 14. Website Analysis with Matomo
 
-13.1. For webseite analysis we use Matomo (formerly Piwik), an open-source
+14.1. For webseite analysis we use Matomo (formerly Piwik), an open-source
 software, which evaluates website visits. Matomo uses cookies to enable the
 analysis of website vists. For this purpose we transmit and store tracking data
 based on the cookie on our servers. IP-addresses are truncated during this
@@ -250,40 +267,55 @@ process such that we cannot directly identify you as a visitor and you stay
 anonym. The resulting pseudonymized profiles are used soley to optimize our
 webseite content and usability.
 
-13.2. You can prevent the use of cookies on our website through settings in
+14.2. You can prevent the use of cookies on our website through settings in
 your browser, but it may be possible that you cannot use all features of our
 website to their full extend.
 
-13.3. If you don‘t want to allow us to the storing and analysis of your visitor
+14.3. If you don‘t want to allow us to the storing and analysis of your visitor
 data, then you can object to our use of Matomo at any time. In this case your
 browser will store a so called opt-out cookie that prevents Matomo from storing
 any data on our servers.
 
-13.4. To object our use of Cookies for website analysis click here.
+14.4. To object our use of Cookies for website analysis click here.
 
-# 14. Google Gsuite
+# 15. Google Gsuite
 
-14.1. For our e-mail correspondance and for storing files and documents we use
+15.1. For our e-mail correspondance and for storing files and documents we use
 Gmail, Drive and Gsuite, a service by Google Inc. (www.google.de), 1600
 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“).
 
-14.2. Google processes your data in relation with e-mail correspondences and
+15.2. Google processes your data in relation with e-mail correspondences and
 storage of documents such as contracts, invoices and as well data to optimize
 and analyse Gsuite. For this we have closed a model contract clause with
 Google, which obligates Google to proect your data, to  process it with regard
 to this privacy policy and not to pass it on to third parties.
 
-14.3. Additional information to privacy can be reviewed in Google‘s [privacy
+15.3. Additional information to privacy can be reviewed in Google‘s [privacy
 policy](https://policies.google.com/privacy).
 
-# 15. Erasing and Blocking of Data
+# 16. Basecamp
 
-15.1. We process and store your personal data only for the period necessary to
+16.1. We use „Basecamp“, a project management and team communication software
+of  Basecamp LLC. XY,  Chicago, Illinois, USA („Basecamp“),  to share content
+company-wide, within a team oder for a specific project. For the purpose of
+team communication we transmit contents and possibly also personal data.
+
+16.2. When using Basecamp, data is stored on Basecamp servers in the US, an so
+called insecure third party country. Basecamp is EU-U.S. privacy shield and
+Swiss-U.S. privacy shield certified. For this reason, compliance with European
+data protection law is guaranteed.
+
+16.3. Additional information for your privacy can be reviewed in the [Privacy
+Policy of Basecamp](https://basecamp.com/about/policies/privacy).
+
+# 17. Erasing and Blocking of Data
+
+17.1. We process and store your personal data only for the period necessary to
 achieve the storage purpose until you revoke your consent for storage or if
 this has been provided for by the European Directive and Ordinance Giver or
 another legislator in laws or regulations to which we are subject.
 
-15.2. If the purpose of storage ceases to apply, you revoke your consent or if
+17.2. If the purpose of storage ceases to apply, you revoke your consent or if
 a storage period prescribed by the European Directive and Ordinance Giver or
 another competent legislator expires, the personal data will be routinely
 blocked or deleted in accordance with the statutory provisions.
