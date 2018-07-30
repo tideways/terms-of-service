@@ -573,4 +573,4 @@ Königswinterer Straße 116<br />
 E-Mail: [legal@tideways.com](mailto:legal@tideways.com)<br />
 Phone: +49 228-38758328<br />
 
-Last Revised: 17.04.2018
+Last Revised: 30.07.2018
