@@ -276,7 +276,7 @@ data, then you can object to our use of Matomo at any time. In this case your
 browser will store a so called opt-out cookie that prevents Matomo from storing
 any data on our servers.
 
-14.4. To object our use of Cookies for website analysis [click here](https://analytics.tideways.io/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontCol    or=&fontSize=&fontFamily=).
+14.4. To object our use of Cookies for website analysis [click here](https://analytics.tideways.io/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en&amp;backgroundColor=&amp;fontColor=&amp;fontSize=&amp;fontFamily=).
 
 # 15. Google Gsuite
 
