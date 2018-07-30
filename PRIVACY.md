@@ -276,7 +276,7 @@ data, then you can object to our use of Matomo at any time. In this case your
 browser will store a so called opt-out cookie that prevents Matomo from storing
 any data on our servers.
 
-14.4. To object our use of Cookies for website analysis click here.
+14.4. To object our use of Cookies for website analysis [click here](https://analytics.tideways.io/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontCol    or=&fontSize=&fontFamily=).
 
 # 15. Google Gsuite
 
@@ -567,10 +567,10 @@ personal data would have.
 
 # 31. Party responsible
 
-Tideways Gesellschaft mit beschränkter Haftung (GmbH)
-Königswinterer Straße 116
-53227 Bonn
-E-Mail: [legal@tideways.com](mailto:legal@tideways.com)
-Phone: +49 228-38758328
+Tideways Gesellschaft mit beschränkter Haftung (GmbH)<br />
+Königswinterer Straße 116<br />
+53227 Bonn<br />
+E-Mail: [legal@tideways.com](mailto:legal@tideways.com)<br />
+Phone: +49 228-38758328<br />
 
 Last Revised: 17.04.2018
