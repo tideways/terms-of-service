@@ -281,8 +281,8 @@ any data on our servers.
 # 15. Google Gsuite
 
 15.1. For our e-mail correspondance and for storing files and documents we use
-Gmail, Drive and Gsuite, a service by Google Inc. (www.google.de), 1600
-Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“).
+Gmail, Drive and Gsuite, a service by Google Ireland Limited, Gordon House,
+Barrow Street, Dublin 4, Irland („Google“).
 
 15.2. Google processes your data in relation with e-mail correspondences and
 storage of documents such as contracts, invoices and as well data to optimize
@@ -290,7 +290,12 @@ and analyse Gsuite. For this we have closed a model contract clause with
 Google, which obligates Google to proect your data, to  process it with regard
 to this privacy policy and not to pass it on to third parties.
 
-15.3. Additional information to privacy can be reviewed in Google‘s [privacy
+15.3. Google data is stored on servers in the US, an so called insecure third
+party country. Google is EU-U.S. privacy shield and Swiss-U.S. privacy shield
+certified. For this reason, compliance with European data protection law is
+guaranteed.
+
+15.4. Additional information to privacy can be reviewed in Google‘s [privacy
 policy](https://policies.google.com/privacy).
 
 # 16. Basecamp
